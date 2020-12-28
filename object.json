@@ -1,0 +1,20 @@
+  
+  
+  
+  const json =  {
+	"Ethiopia": [{
+			"region": "Gurage",
+			"population": "122222222"
+		},
+		{
+			"region": "gambela",
+			"population": "1222"
+		},
+		{
+			"region": "somalia",
+			"population": "122"
+		}
+
+
+	]
+}
